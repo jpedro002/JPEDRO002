@@ -17,9 +17,9 @@
 - #### 🔎 My lastest project https://dt-money-swart.vercel.app
  
     </td>
-    <td align="center">
+<!--     <td align="center">
       <img width="200%" alt="Github" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
@@ -38,11 +38,9 @@
   
   <tr align='center'>
     <td colspan='2'>
-       <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro002&layout=compact&hide_border=true&langs_count=7&theme=algolia"/>
+       <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro002&layout=compact&hide_border=true&langs_count=7&theme=prussian"/>
     </td>
-<!--      <td>
-    <img width="90%" src="https://profile-counter.glitch.me/jpedro002/count.svg">
-    </td> -->
+
   </tr>
   
   <tr></tr>
@@ -101,13 +99,14 @@
   
   <tr align='center' height='100px'>
     <td width='600px'>
+      <img alt="João-Pedro-NEXTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
       <img alt="João-Pedro-REACTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img alt="João-Pedro-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
       <img alt="João-Pedro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <img alt="João-Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img alt="João-Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img alt="João-Pedro-BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-      <img alt="João-Pedro-TAILWIND" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+      <img alt="João-Pedro-TAILWIND" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg">
     </td>
     <td width='600px'>
       <img alt="João-Pedro-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -132,7 +131,6 @@
     <td> 
       <img alt="João-Pedro-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
       <img alt="João-Pedro-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-      <img alt="João-Pedro-NEXTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
       <img alt="João-Pedro-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"><img alt="João-Pedro-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     </td>
 
